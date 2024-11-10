@@ -8,8 +8,8 @@ The "Debating Contest Software" is an application designed for managing and orga
 
 - **Henrik Staschen**: Frontend Development, UI Design, Integration of Backend and Frontend & Former Lead Developer
 
-## Logo in vorlage.odt belongs to Muhammad Adnan.
-## (https://www.vecteezy.com/members/flatart)
+**Logo in vorlage.odt belongs to Muhammad Adnan.
+(https://www.vecteezy.com/members/flatart)**
 
 ## License
 
