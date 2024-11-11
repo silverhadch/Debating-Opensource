@@ -15,7 +15,7 @@
         <nav class="navbar navbar-expand-lg">
             <div class="container-fluid">
                 <a class="navbar-brand" href="login.php">
-                    <img src="images/bertha_inverted_logo.svg" width="130px"> Debating Tool
+                     Debating Tool
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -23,9 +23,8 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ms-auto">
-                        <li class="nav-item">
-                            <a class="nav-link" href="#contact">Contact</a>
-                        </li>
+                       
+                            
                         <li class="nav-item">
                             <a class="nav-link" href="logout.php">Logout</a>
                         </li>
@@ -199,14 +198,14 @@
             <div class="row">
                 <div class="col-lg-4 col-md-12 col-sm-12">
                     <p class="logo">
-                        <img src="images/bertha_inverted_logo.svg" width="75px"> Debating Tool
+                         Debating Tool
                     </p>
                 </div>
                 <div class="col-lg-5 col-md-12 col-sm-12">
                     <ul class="d-flex">
                         <li><a href="admin_login.php">Home</a></li>
-                        <li><a href="#contact">Contact</a></li>
-                        <li><a href="admin_login.php">Admin</a></li>
+                        
+                        
                     </ul>
                 </div>
                 <div class="col-lg-2 col-md-12 col-sm-12">

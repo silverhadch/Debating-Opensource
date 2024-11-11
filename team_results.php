@@ -38,7 +38,7 @@ if (!isset($_SESSION['username_admin'])) {
     <header class="navbar-section">
         <nav class="navbar navbar-expand-lg">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#"><img src="images\bertha_inverted_logo.svg" width="130px"></i> Debating Tool</a>
+                <a class="navbar-brand" href="#"></i> Debating Tool</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                     aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -48,12 +48,7 @@ if (!isset($_SESSION['username_admin'])) {
                         <li class="nav-item">
                             <a class="nav-link" href="admin_home.php">home</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="results.php">Results Table</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="player_results.php">Results Players</a>
-                        </li>
+                        
                         <li class="nav-item">
                             <div class="dropdown">
                                 <a class='nav-link dropdown-toggle' href='edit.php?id=$res_id' id='dropdownMenuLink'
@@ -146,13 +141,12 @@ if (!isset($_SESSION['username_admin'])) {
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-12 col-sm-12">
-                    <p class="logo"><img src="images\bertha_inverted_logo.svg" width="75px"></i> Debating Tool</p>
+                    <p class="logo"></i> Debating Tool</p>
                 </div>
                 <div class="col-lg-5 col-md-12 col-sm-12">
                     <ul class="d-flex">
                         <li><a href="admin_home.php">home</a></li>
-                        <li><a href="results.php">Results Table</a></li>
-                        <li><a href="player_results.php">Results Players</a></li>
+                        
                     </ul>
                 </div>
 

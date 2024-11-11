@@ -48,7 +48,7 @@ $results = $stmt->fetchAll(PDO::FETCH_ASSOC);
     <header class="navbar-section">
         <nav class="navbar navbar-expand-lg">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#"><img src="images\bertha_inverted_logo.svg" width="130px"></a> Debating Tool
+                <a class="navbar-brand" href="#"></a> Debating Tool
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                     aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -121,7 +121,7 @@ $results = $stmt->fetchAll(PDO::FETCH_ASSOC);
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-12 col-sm-12">
-                    <p class="logo"><img src="images\bertha_inverted_logo.svg" width="75px"> Debating Tool</p>
+                    <p class="logo"> Debating Tool</p>
                 </div>
                 <div class="col-lg-5 col-md-12 col-sm-12">
                     <ul class="d-flex">

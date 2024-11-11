@@ -16,7 +16,7 @@
         <nav class="navbar navbar-expand-lg">
             <div class="container-fluid">
                 <a class="navbar-brand" href="login.php">
-                    <img src="images/bertha_inverted_logo.svg" width="130px"> Debating Tool
+                     Debating Tool
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -304,7 +304,7 @@ ob_end_flush();
             <div class="row">
                 <div class="col-lg-4 col-md-12 col-sm-12">
                     <p class="logo">
-                        <img src="images/bertha_inverted_logo.svg" width="75px"> Debating Tool
+                         Debating Tool
                     </p>
                 </div>
                 <div class="col-lg-5 col-md-12 col-sm-12">
