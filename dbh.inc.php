@@ -115,7 +115,7 @@ function setbestplayer(){
     // Überprüfen, ob es mehrere Spieler mit den höchsten Punkten gibt
     $anzahl_max_punkte = 0;
     $bestplayer_id = 0;
-    //guck ob es mehrer spieler gibt (höchst ineffekter Code aber scheiß egal)
+    //guck ob es mehrer spieler gibt (höchst ineffekter Code aber egal)
     if ($debate_points_pro_Player_1 == $max_punkte) {
         $anzahl_max_punkte++;
         $bestplayer_id = $debate_pro_Player_1;
@@ -311,7 +311,7 @@ $debate_submitterID = isset($_SESSION['id']) ? $_SESSION['id'] : null;
         updatePlayerPoints($pdo, $debate_con_Player_3, $debate_points_con_Player_3);
         echo "Successfully sent all results to the Database!!!!";
     } catch (PDOException $e) {
-        echo "Error in endDebate Function. Contact Henrik and Hadi!!!! -" . $e->getMessage() . "<br>";
+        echo "Error in endDebate Function. Contact the Admins!!!! -" . $e->getMessage() . "<br>";
     }
 }
 
