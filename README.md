@@ -7,9 +7,7 @@ The "Debating Contest Software" is an application designed for managing and orga
 - **Hadi Chokr**: Maintainer, Current Lead Developer, Backend Development, Bug Fixes, Database Management, and the main point of contact for the project.
 
 - **Henrik Staschen**: Frontend Development, UI Design, Integration of Backend and Frontend & Former Lead Developer
-
-**Logo in vorlage.odt belongs to Muhammad Adnan.
-(https://www.vecteezy.com/members/flatart)**
+  
 
 ## License
 
