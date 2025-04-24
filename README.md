@@ -21,6 +21,11 @@ This project is licensed under the **GNU General Public License Version 3 (GPL-3
 
 The full license is available in the project directory under `LICENSE`.
 
+## Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT ANY WARRANTY, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. REFER TO THE GPL-3.0 LICENSE FOR MORE DETAILS.
+
+
 
 # Installation and Setup Guide
 
@@ -189,11 +194,3 @@ Once logged into the Admin panel, you will have multiple options. The most impor
   <a href="https://github.com/silverhadch/Debating-Opensource/blob/master/images/certificates.jpeg"><img alt="index" src="https://github.com/silverhadch/Debating-Opensource/blob/master/images/certificates.jpeg" width="60%"></a>
   </p>
 </p>
-
-
-
-## Disclaimer
-
-THE SOFTWARE IS PROVIDED "AS IS," WITHOUT ANY WARRANTY, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. REFER TO THE GPL-3.0 LICENSE FOR MORE DETAILS.
-
-
